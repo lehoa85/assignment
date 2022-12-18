@@ -1,4 +1,5 @@
 NOTE:
++ The demo site is running on Drupal 9.5.0
 + Demo link:http://assignment.drupalthemes.us
  Admin account: admin/admin
 + For generating QR code, I chosen light weight library endroid/qr-code
